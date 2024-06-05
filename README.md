@@ -1,1 +1,1 @@
-# landing-page
+My landing page project after completing html and css foundations in odin project.
